@@ -3,6 +3,7 @@ import { useLogin } from "@refinedev/core";
 
 import { Box, Container, Typography } from "@mui/material";
 import { ThemedTitleV2 } from "@refinedev/mui";
+import { yariga } from "assets";
 
 import { CredentialResponse } from "../interfaces/google";
 
